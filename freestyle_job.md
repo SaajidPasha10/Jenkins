@@ -1,5 +1,7 @@
 # 🧪 Jenkins Freestyle Job: Role-Based Dynamic Shell Execution
 
+![](gifs/freestyle_job.gif)
+
 ### A parameterized Jenkins job that echoes a user's name and designation and executes role-specific messages using a Shell build step.
 
 ---
